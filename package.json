@@ -1,0 +1,49 @@
+{
+  "name": "find-api",
+  "version": "1.0.1",
+  "description": "Find reliable data APIs for AI agents - 跨领域可靠数据 API 指南",
+  "author": "yesilsin-netizen",
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "data-source",
+    "agent",
+    "search",
+    "scraping-alternative",
+    "stock",
+    "weather",
+    "news",
+    "maps",
+    "finance"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yesilsin-netizen/find-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yesilsin-netizen/find-api/issues"
+  },
+  "homepage": "https://clawhub.ai/yesilsin-netizen/find-api",
+  "skills": {
+    "category": "infrastructure",
+    "triggers": [
+      "api",
+      "数据源",
+      "data source",
+      "reliable",
+      "可靠",
+      "scrape",
+      "爬取",
+      "fetch",
+      "获取",
+      "stock",
+      "股票",
+      "weather",
+      "天气",
+      "news",
+      "新闻",
+      "map",
+      "地图"
+    ]
+  }
+}

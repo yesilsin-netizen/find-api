@@ -1,20 +1,61 @@
 ---
 name: find-api
+version: 1.0.1
+author: yesilsin-netizen
 description: |
   🔍 Find API | 寻找可靠数据源
-  
-  TRIGGERS: Use when agent needs to fetch external data, user mentions "reliable data source", "数据源", "API", or when web scraping is inefficient/inaccurate.
   
   A comprehensive guide to reliable data APIs across all domains.
   Helps agents find the best APIs instead of inefficient web scraping.
   Currently covers: Stock/Financial data, Weather, News, Maps, and more domains coming soon.
   
-  触发条件：Agent 需要获取外部数据、用户提到"可靠数据源"、"数据源"、"API"，或网页爬取效率低/不准确时。
   跨领域可靠数据 API 的综合指南。
   帮助 Agent 找到最佳 API，避免低效的网页爬取。
   目前覆盖：股票/金融数据、天气、新闻、地图，更多领域持续完善中。
 
-metadata: {"clawdbot":{"emoji":"🔍","triggers":["api","数据源","data source","reliable","可靠","scrape","爬取","fetch","获取","stock","股票","weather","天气","news","新闻","map","地图","price","价格","financial","金融"],"categories":["infrastructure","data-access","efficiency"]}}
+keywords:
+  - api
+  - data-source
+  - agent
+  - search
+  - scraping-alternative
+  - stock
+  - weather
+  - news
+  - maps
+  - finance
+
+categories:
+  - infrastructure
+  - data-access
+  - efficiency
+
+triggers:
+  - api
+  - 数据源
+  - data source
+  - reliable
+  - 可靠
+  - scrape
+  - 爬取
+  - fetch
+  - 获取
+  - stock
+  - 股票
+  - weather
+  - 天气
+  - news
+  - 新闻
+  - map
+  - 地图
+  - price
+  - 价格
+  - financial
+  - 金融
+
+license: MIT
+homepage: https://clawhub.ai/yesilsin-netizen/find-api
+repository: https://github.com/yesilsin-netizen/find-api
 ---
 
 # 🔍 Find API | 寻找可靠数据源
